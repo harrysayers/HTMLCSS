@@ -1,0 +1,126 @@
+.btn-Green {
+    padding: 40px 40px;
+	font-family: "Fjalla_One";
+    color: #fff;
+    background-color: #01DF01;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px #04B404; margin: 10px;}
+	
+.btn-Red {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: darkred;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px darkred; margin: 10px;}
+		
+.btn-Blue {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px  blue; margin: 10px;}
+	
+.btn-Orange {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: orangered;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px orangered; margin: 10px;}
+.btn-Indigo {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: indigo;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px indigo; margin: 10px;}
+.btn-Brown {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: brown;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px  brown; margin: 10px;}
+.btn-Grey {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: grey;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px  grey; margin: 10px;}
+.btn-Cyan {
+	font-family: "Fjalla_One";
+    padding: 40px 40px;
+    color: #fff;
+    background-color: cyan;
+    border: none;
+    border-radius: 100%;
+	border-bottom: 4px cyan; margin: 10px;}
+
+
+
+
+
+
+
+.btn-Bottons {
+    padding: 15px 30px;
+    color: #fff;
+    background-color:darkgray;
+    border: none;
+    border-radius: 6px;
+	border-bottom: 4px solid grey;
+	 margin: 30px;
+    
+}
+
+
+.btnli-Pink {
+    padding: 15px 200px;
+    color: #fff;
+    position: center;
+    background-color:#FFC1E5;
+     border:none;
+    border-radius: 6px;
+    border-bottom: 4px solid #F1B0D6;
+		 margin: 10px;
+}
+
+.btnli-Gold {
+    padding: 15px 200px;
+    color: #fff;
+    background-color:#EBD10A;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid #DAC10D   ;
+ margin: 10px;
+}
+
+.btnli-Ice {
+    padding: 15px 200px;
+    color: black;
+    background-color:mintcream;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid aliceblue;
+		 margin: 10px;
+}
+
+.btnli-Rose {
+    padding: 15px 200px;
+    color: black;
+    background-color:mistyrose;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid #ffcccc ;
+		 margin: 10px;
+}
